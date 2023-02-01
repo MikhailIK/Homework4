@@ -46,7 +46,6 @@ while (result >=50) {
 
 console.log (`Получится число. меньше 50, это число ${result} количество итераций ${(c-1)}`)
 
-
 // 6
 
 let fridayDate = 6;
